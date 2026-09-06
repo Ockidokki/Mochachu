@@ -1,0 +1,142 @@
+[
+  {
+    "class": "kitty",
+    "title": "~",
+    "workspace": "1",
+    "floating": true,
+    "at": [
+      1407,
+      94
+    ],
+    "size": [
+      492,
+      222
+    ]
+  },
+  {
+    "class": "kitty",
+    "title": "btm",
+    "workspace": "1",
+    "floating": true,
+    "at": [
+      813,
+      335
+    ],
+    "size": [
+      1088,
+      727
+    ]
+  },
+  {
+    "class": "kitty",
+    "title": "btm",
+    "workspace": "1",
+    "floating": true,
+    "at": [
+      811,
+      93
+    ],
+    "size": [
+      586,
+      222
+    ]
+  },
+  {
+    "class": "kitty",
+    "title": "~",
+    "workspace": "1",
+    "floating": true,
+    "at": [
+      22,
+      87
+    ],
+    "size": [
+      776,
+      974
+    ]
+  },
+  {
+    "class": "com.github.th-ch.youtube-music",
+    "title": "YouTube Music",
+    "workspace": "3",
+    "floating": false,
+    "at": [
+      1493,
+      75
+    ],
+    "size": [
+      405,
+      983
+    ]
+  },
+  {
+    "class": "seanime-denshi",
+    "title": "PSYCHO-PASS | Seanime",
+    "workspace": "4",
+    "floating": false,
+    "at": [
+      22,
+      75
+    ],
+    "size": [
+      1876,
+      983
+    ]
+  },
+  {
+    "class": "vesktop",
+    "title": "(241) Discord | @Yana",
+    "workspace": "3",
+    "floating": false,
+    "at": [
+      22,
+      75
+    ],
+    "size": [
+      1451,
+      983
+    ]
+  },
+  {
+    "class": "hyprfm",
+    "title": "HyprFM",
+    "workspace": "5",
+    "floating": false,
+    "at": [
+      22,
+      75
+    ],
+    "size": [
+      928,
+      983
+    ]
+  },
+  {
+    "class": "librewolf",
+    "title": "Getting help with GNU software - GNU Project - Free Software Foundation — LibreWolf",
+    "workspace": "2",
+    "floating": false,
+    "at": [
+      22,
+      75
+    ],
+    "size": [
+      1876,
+      983
+    ]
+  },
+  {
+    "class": "kitty",
+    "title": "./save_session.sh",
+    "workspace": "5",
+    "floating": false,
+    "at": [
+      970,
+      75
+    ],
+    "size": [
+      928,
+      983
+    ]
+  }
+]
