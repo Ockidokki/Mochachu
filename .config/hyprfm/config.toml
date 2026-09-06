@@ -1,0 +1,52 @@
+[appearance]
+anim_curve_enter = 'OutCubic'
+anim_curve_exit = 'InCubic'
+anim_curve_transition = 'Bezier'
+anim_duration = 200
+anim_duration_fast = 100
+anim_duration_slow = 350
+animations_enabled = true
+radius_large = 12
+radius_medium = 8
+radius_small = 4
+transparency_enabled = true
+transparency_level = 1.0
+
+[bookmarks]
+paths = [ '~/Videos', '~/Documents' ]
+
+[context_menu]
+
+[general]
+dark_theme = 'catppuccin-mocha'
+default_view = 'grid'
+dependency_startup_check = true
+font_family = ''
+icon_theme = 'Colloid-Pastel-Pink-Dark'
+light_theme = 'catppuccin-latte'
+remember_sort_per_folder = true
+right_click_to_edit_path = true
+show_hidden = true
+sort_ascending = true
+sort_by = 'name'
+theme = 'mochachu'
+
+[list_view]
+column_widths = { modified = 140, size = 110, type = 80 }
+columns = [ 'name', 'size', 'modified', 'type' ]
+
+[miller_view]
+current_fraction = 0.5
+parent_fraction = 0.20000000000000001
+
+[shortcuts]
+
+[sidebar]
+hidden_quick_access = []
+position = 'left'
+visible = true
+width = 200
+
+[window]
+button_layout = ':minimize,maximize,close'
+show_controls = false

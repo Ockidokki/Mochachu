@@ -1,0 +1,23 @@
+# HyprFM theme sample.
+#
+# Copy this file to "mytheme.toml" in this directory, edit the colours, then put
+#     [general]
+#     theme = "mochachu"
+# in ~/.config/hyprfm/config.toml, or pick it in Settings. Every *.toml here is
+# listed there, and a file here shadows the bundled theme of the same name.
+#
+# Any key you leave out keeps its built-in default.
+
+[colors]
+base    = "#402D2D"  # file view background
+mantle  = "#2B2121"  # toolbar, dialogs, breadcrumb
+crust   = "#402D2D"  # deepest layer: title bar, sidebar
+surface = "#302121"  # cards, inputs, hovered rows
+overlay = "#FB878B"  # borders, separators, inactive marks
+text    = "#F2C6BF"  # primary text
+subtext = "#C1928B"  # secondary text
+muted   = "#6c7086"  # icons, disabled text
+accent  = "#FB878B"  # selection, focus ring, links
+success = "#a6e3a1"  # completed operations
+warning = "#f9e2af"  # warnings
+error   = "#f38ba8"  # errors, destructive actions
